@@ -29,8 +29,6 @@ setuptools.setup(
         'librosa',
         'transformers==4.31.0',
         'tokenizers',
-        'numba',
-        'inflect',
         'gradio'
     ],
     classifiers=[
