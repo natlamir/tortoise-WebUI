@@ -30,7 +30,8 @@ setuptools.setup(
         'transformers==4.31.0',
         'tokenizers',
         'numba',
-        'inflect'
+        'inflect',
+        'gradio'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
