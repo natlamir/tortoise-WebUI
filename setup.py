@@ -29,7 +29,7 @@ setuptools.setup(
         'librosa',
         'transformers==4.31.0',
         'tokenizers',
-        'numba',]
+        'numba',
         'inflect'
     ],
     classifiers=[
