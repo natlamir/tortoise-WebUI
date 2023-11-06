@@ -21,4 +21,4 @@ pydantic==1.9.1
 py-cpuinfo
 hjson
 psutil
-gradio
+gradio==3.48.0
